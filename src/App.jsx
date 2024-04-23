@@ -28,7 +28,7 @@ const App = () => (
     <section className="padding">
       <SpecialOffer />
     </section>
-    <section className="bg-blue-200 padding">
+    <section className="bg-pale-blue padding">
       <CustomerReviews />
     </section>
     <section className="padding-x sm:py-32 w-full">
